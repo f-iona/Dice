@@ -152,3 +152,8 @@ void setup()
   {
       redraw();
   }
+  
+   void keyPressed()
+  {
+      redraw();
+  }
